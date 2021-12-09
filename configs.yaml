@@ -1,0 +1,12 @@
+AmazonOffice:
+  ds_name: AmazonOffice
+  ds_core: 5
+  ds_sep: "\t"
+  ds_names: ['uid', 'iid', 'rating']
+
+MovieLens100K:
+  ds_name: MovieLens100K
+  ds_core: 5
+  ds_sep: "\t"
+  ds_names: ['uid', 'iid', 'rating', 'timestamp']
+
