@@ -4,6 +4,12 @@ AmazonOffice:
   ds_sep: "\t"
   ds_names: ['uid', 'iid', 'rating']
 
+AmazonToy:
+  ds_name: AmazonToy
+  ds_core: 7
+  ds_sep: ','
+  ds_names: ['uid', 'iid', 'rating', 'timestamp']
+
 MovieLens100K:
   ds_name: MovieLens100K
   ds_core: 5
