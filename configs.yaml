@@ -10,9 +10,20 @@ AmazonToy:
   ds_sep: ','
   ds_names: ['uid', 'iid', 'rating', 'timestamp']
 
+Epinion:
+  ds_name: Epinion
+  ds_core: 20
+  ds_sep: " "
+  ds_names: ['uid', 'iid', 'rating']
+
+Gowalla:
+  ds_name: Gowalla
+  ds_core: 25
+  ds_sep: "\t"
+  ds_names: ['uid', 'iid', 'rating']
+
 MovieLens100K:
   ds_name: MovieLens100K
   ds_core: 5
   ds_sep: "\t"
   ds_names: ['uid', 'iid', 'rating', 'timestamp']
-
