@@ -22,6 +22,12 @@ Gowalla:
   ds_sep: "\t"
   ds_names: ['uid', 'iid', 'rating']
 
+Foursquare:
+  ds_name: Foursquare
+  ds_core: 14
+  ds_sep: "\t"
+  ds_names: ['uid', 'iid', 'rating']
+
 MovieLens100K:
   ds_name: MovieLens100K
   ds_core: 5
