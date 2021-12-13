@@ -16,6 +16,12 @@ Epinion:
   ds_sep: " "
   ds_names: ['uid', 'iid', 'rating']
 
+LastFM:
+  ds_name: LastFM
+  ds_core: 10
+  ds_sep: "\t"
+  ds_names: ['uid', 'iid', 'rating']
+
 Gowalla:
   ds_name: Gowalla
   ds_core: 25
