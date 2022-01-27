@@ -3,26 +3,29 @@ Papers, Codes, and Datasets for Fairness in RecSyss.
 
 ## Papers
 ### Models
-| Year | Venue | Authors | Title | Side | Type | 
-|------|-------|---------|-------|------|------|
-| 2021 | WWW   |Li et al.|[User-oriented Fairness in Recommendation](https://arxiv.org/pdf/2104.10671.pdf)| - | - |
+| ID | Year | Venue | Authors | Title | Side | Type | 
+| ---|------|-------|---------|-------|------|------|
+| 1 | 2021 | WWW   | Li et al. |[User-oriented Fairness in Recommendation](https://arxiv.org/pdf/2104.10671.pdf)| - | - |
+| 2 | 2021 | SIGIR | Chen et al. |[AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/pdf/2105.04170.pdf) | - | - |
+| 3 | 2021 | UMMUAI| Boratto et al. | [Interplay between Upsampling and Regularization for Provider Fair- ness in Recommender Systems](https://arxiv.org/pdf/2006.04279.pdf) | - | - |
+| 4 | 2019 | RMSE@RecSys | Abdollahpouri et al. | [The Unfairness of Popularity Bias in Recommendation](https://arxiv.org/pdf/1907.13286.pdf)| - | - |
+| 5 | 2020 | CIKM | Mansoury et al.| [Feedback Loop and Bias Amplification in Recommender Systems](https://arxiv.org/pdf/2007.13019.pdf) | - | - |
+| 6 | 2021 | ECIR | Neophytou et al. | [Revisiting Popularity and Demographic Biases in Recommender Evaluation and Effectiveness](https://arxiv.org/pdf/2110.08353.pdf) | - | - |
+| 7 | 2021 | IPM | Gharahighehi et al. | [Fair Multi-Stakeholder News Recommender System with Hypergraph ranking](https://arxiv.org/pdf/2012.00387.pdf) | - | - | 
+| 8 | 2021 | SIGIR | Li et al.| [Personalized Counterfactual Fairness in Recommendation](https://arxiv.org/pdf/2105.09829.pdf) | - | - |
+| 9 | 2021 | IEEE Access | DONG et al.| [User-Item Matching for Recommendation Fairness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541152) | - | - |
+| 10 | 2020 | WWW |Patro et al. | [FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms](https://arxiv.org/pdf/2002.10764.pdf) | - | - |
+| 11 | 2021 | TOIS |Mansoury et al. | [A Graph-based Approach for Mitigating Multi-sided Exposure Bias in Recommender Systems](https://arxiv.org/pdf/2107.03415.pdf) | - | - |
+| 12 | 2020 | LBR@RecSys | Abdollahpouri et al. | [The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation](https://arxiv.org/pdf/2008.09273.pdf) | - | - |
+| 13 | 2017 | LBR@RecSys | Abdollahpouri et al. |[Controlling Popularity Bias in Learning-to-Rank Recommendation](https://dl.acm.org/doi/pdf/10.1145/3109859.3109912) | - | - |
+| 14 | 2021 | MM | Hao et al.| [Pareto Optimality for Fairness-constrained Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3474085.3475706) | - | - | 
+| 15 | 2021 | UMAP | Abdollahpouri et al.|[User-centered Evaluation of Popularity Bias in Recommender Systems](https://arxiv.org/pdf/2103.06364.pdf) | - | - |
+| 16 | 2021 | SIGIR | - et al.|[Mitigating Sentiment Bias for Recommender Systems](https://lihui.info/doc/SIGIR21.pdf) | - | - |
+
+
+
 <!--
-|2021<sup>*</sup>|Chen et al.|[AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/pdf/2105.04170.pdf)| SIGIR | - | - | - | -
-| 2021<sup>*</sup> | Boratto et al. | [Interplay between Upsampling and Regularization for Provider Fair- ness in Recommender Systems](https://arxiv.org/pdf/2006.04279.pdf) | UMUAI | - | - | - | -
-| 2019<sup>*</sup> | Abdollahpouri et al. | [The Unfairness of Popularity Bias in Recommendation](https://arxiv.org/pdf/1907.13286.pdf)| RMSE@RecSys | - | - | - | -
-| 2020<sup>*</sup> | Mansoury et al.| [Feedback Loop and Bias Amplification in Recommender Systems](https://arxiv.org/pdf/2007.13019.pdf) | CIKM | - | - | -  | -
-| 2021<sup>*</sup>| Neophytou et al. | [Revisiting Popularity and Demographic Biases in Recommender Evaluation and Effectiveness](https://arxiv.org/pdf/2110.08353.pdf)| ECIR | - | - | - | -
-| 2021<sup>*</sup>| Gharahighehi et al. | [Fair Multi-Stakeholder News Recommender System with Hypergraph ranking](https://arxiv.org/pdf/2012.00387.pdf) | IPM | - | - | - | - 
-| 2021<sup>*</sup>| Li et al.| [Personalized Counterfactual Fairness in Recommendation](https://arxiv.org/pdf/2105.09829.pdf) | SIGIR | - | - | - | -
-| 2021<sup>*</sup>| DONG et al.| [User-Item Matching for Recommendation Fairness](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9541152) | IEEE Access | - | - | - | - 
-| 2020<sup>*</sup>| Patro et al. | [FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms](https://arxiv.org/pdf/2002.10764.pdf) | WWW | - | - | - | -
-| 2021<sup>*</sup>| Mansoury et al. | [A Graph-based Approach for Mitigating Multi-sided Exposure Bias in Recommender Systems](https://arxiv.org/pdf/2107.03415.pdf) | TOIS | - | - | - | -
-| 2020<sup>*</sup>| Abdollahpouri et al. | [The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation](https://arxiv.org/pdf/2008.09273.pdf) | LBR@RecSys | - | - | - 
-| 2017<sup>*</sup>| Abdollahpouri et al. |[Controlling Popularity Bias in Learning-to-Rank Recommendation](https://dl.acm.org/doi/pdf/10.1145/3109859.3109912)| LBR@RecSys | - | - | - | -
-| 2021<sup>*</sup>| Hao et al.| [Pareto Optimality for Fairness-constrained Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3474085.3475706)| MM | - | - | - | -
-| 2021<sup>*</sup>| Abdollahpouri et al.|[User-centered Evaluation of Popularity Bias in Recommender Systems](https://arxiv.org/pdf/2103.06364.pdf)| UMAP | - | - | - | -
-| 2021<sup>*</sup>|- et al.|[Mitigating Sentiment Bias for Recommender Systems](https://lihui.info/doc/SIGIR21.pdf)| SIGIR | - | - | - | -
-| 2019<sup>*</sup>| Weydemann et al.|[Defining and Measuring Fairness in Location Recommendations](http://www.ec.tuwien.ac.at/~dimitris/publications/LocalRec19.pdf)| LocalRec@RecSys | - | - | -  | -
+| 2019 | Weydemann et al.|[Defining and Measuring Fairness in Location Recommendations](http://www.ec.tuwien.ac.at/~dimitris/publications/LocalRec19.pdf)| LocalRec@RecSys | - | - | -  | -
 | 2019<sup>*</sup>| Migliorini et al.|[What is the role of Context in Fair Group Recommendations?](http://ceur-ws.org/Vol-2417/paper6.pdf)| PIE | - | - | - | -
 | 2020<sup>*</sup>| Cao et al.|[Debiasing Few-Shot Recommendation in Mobile Games](http://ceur-ws.org/Vol-2715/paper4.pdf)| ORSUM@RecSys | - | - | -  | -
 | 2021<sup>*</sup>| Dash et al.|[When the Umpire is also a Player: Bias in Private Label Product Recommendations on E-commerce Marketplaces](https://dl.acm.org/doi/pdf/10.1145/3442188.3445944)| FAccT | - | - | - | -
