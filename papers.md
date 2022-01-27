@@ -1,12 +1,12 @@
 # Fairness in RecSys
-Papers, Codes, and Datasets for Fairness in RecSys
-* Superscript <sup>*</sup> indicates that a paper have not been read, and we need to add its details.
+Papers, Codes, and Datasets for Fairness in RecSyss.
 
 ## Papers
 ### Models
-| Year  | Authors | Title       |Venue  |Content|Code | Dataset | Point 
-|------|-------|-------|------|------|---------------|-------|-------|
-|2021<sup>*</sup>|Li et al.|[User-oriented Fairness in Recommendation](https://arxiv.org/pdf/2104.10671.pdf)|WWW | - | [Link](https://github.com/rutgerswiselab/user-fairness) |[Link](https://github.com/rutgerswiselab/user-fairness) | -
+| Year | Venue | Authors | Title | Side | Type | 
+|------|-------|---------|-------|------|------|
+| 2021 | WWW   |Li et al.|[User-oriented Fairness in Recommendation](https://arxiv.org/pdf/2104.10671.pdf)| - | - |
+<!--
 |2021<sup>*</sup>|Chen et al.|[AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/pdf/2105.04170.pdf)| SIGIR | - | - | - | -
 | 2021<sup>*</sup> | Boratto et al. | [Interplay between Upsampling and Regularization for Provider Fair- ness in Recommender Systems](https://arxiv.org/pdf/2006.04279.pdf) | UMUAI | - | - | - | -
 | 2019<sup>*</sup> | Abdollahpouri et al. | [The Unfairness of Popularity Bias in Recommendation](https://arxiv.org/pdf/1907.13286.pdf)| RMSE@RecSys | - | - | - | -
@@ -35,4 +35,5 @@ Papers, Codes, and Datasets for Fairness in RecSys
 |-<sup>*</sup>|- et al.|[FaiRecSys: mitigating algorithmic bias in recommender systems](https://link.springer.com/content/pdf/10.1007/s41060-019-00181-5.pdf)| - | - | - | - | define e-fairness
 |-<sup>*</sup>|- et al.|[Beyond Personalization: Research Directions in Multistakeholder Recommendation](https://arxiv.org/pdf/1905.01986.pdf)| - | - | - | - | -
 | 2020<sup>*</sup>|- et al.|[FairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender Systems](https://arxiv.org/pdf/2005.01148.pdf)| UMAP | - | - | - | Complexity analysis
-|-<sup>*</sup>|- et al.|[-](-)| - | - | - | - | -
+-->
+<!--|-<sup>*</sup>|- et al.|[-](-)| - | - | - | - | --->
