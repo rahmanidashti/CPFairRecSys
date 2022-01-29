@@ -1,4 +1,4 @@
-# FairPOIRec
+# CP Fair RecSys
 The re-ranking method for a fair recommendation w.r.t both users and items dimension.
 
 # Dataset Prepration
