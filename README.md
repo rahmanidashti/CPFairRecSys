@@ -3,7 +3,7 @@ The re-ranking method for a fair recommendation w.r.t both users and items dimen
 
 ## Some Statistics
 
-<img src="./contents/statistics.png" alt="Markdown Monster icon" align="middle" width="350" height="220"/>
+<img src="./contents/statistics.png" alt="some statistics of the papers" width="350" height="220"/>
 
 ## Dataset Prepration
 - **ratings_data.txt**: `user-item interactions (raw file)` (by download, from Cornac or another resource)
