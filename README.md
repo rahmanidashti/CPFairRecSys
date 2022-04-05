@@ -20,7 +20,7 @@ All the datasets used in the experiments are in the `datasets` folder. Each data
   - [DatasetName]_tune.txt
 
 ## Model
-To run them model you need to run the `fair_model` notebook. However, due to the anonymity, we remove some Github accounts that we load the datasets from there and this may cause the notebook will not be run properly. We will fix them when the paper got accepted.
+To run them model you need to run the `fair_model` notebook:
 
 ```
 https://colab.research.google.com/github/rahmanidashti/CPFairRecSys/blob/main/fair_model.ipynb
