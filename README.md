@@ -3,7 +3,7 @@ The re-ranking method for a fair recommendation w.r.t both users and items dimen
 
 ## Why Producer and Consumer Fainress?
 
-<img src="./contents/statistics.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="./contents/statistics.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 
 ## Dataset Prepration
 - **ratings_data.txt**: `user-item interactions (raw file)` (by download, from Cornac or another resource)
