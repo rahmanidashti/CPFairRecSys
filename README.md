@@ -2,7 +2,6 @@
 The re-ranking method for a fair recommendation w.r.t both users and items dimension.
 
 ## Some Statistics
-
 <img src="./contents/statistics.png" alt="some statistics of the papers" width="350" height="220"/>
 
 ## Dataset Prepration
