@@ -36,9 +36,9 @@ If you use our source code, dataset, and experiments for your research or develo
 
 ```
 @inproceedings{naghiaei2022cpfairness,
-  title={-},
+  title={CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems},
   author={Mohammadmehdi Naghiaei, Hossein A. Rahmani, Yashar Deldjoo},
-  booktitle={SIGIR},
+  booktitle={The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   year={2022}
 }
 ```
