@@ -3,12 +3,11 @@ The re-ranking method for a fair recommendation w.r.t both users and items dimen
 
 ## Why Producer and Consumer Fainress?
 
-<img src="./contents/statistics.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="./contents/statistics.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="350" height="260"/>
 
 ## Dataset Prepration
 - **ratings_data.txt**: `user-item interactions (raw file)` (by download, from Cornac or another resource)
 - **[DatasetName]_data.txt**: This file is a `k-core` file that the users and items ids are mapped to a new range of indecies.
-- 
 
 ## Datasets
 All the datasets used in the experiments are in the `datasets` folder. Each dataset contains several files and a folder including:
