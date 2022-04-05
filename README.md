@@ -1,9 +1,9 @@
 # CPFairRecSys
 The re-ranking method for a fair recommendation w.r.t both users and items dimension.
 
-## Why Producer and Consumer Fainress?
+## Some Statistics
 
-<img src="./contents/statistics.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="350" height="260"/>
+<img src="./contents/statistics.png" alt="Markdown Monster icon" style="float: center; margin-right: 10px;" width="350" height="220"/>
 
 ## Dataset Prepration
 - **ratings_data.txt**: `user-item interactions (raw file)` (by download, from Cornac or another resource)
