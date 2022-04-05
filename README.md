@@ -22,6 +22,10 @@ All the datasets used in the experiments are in the `datasets` folder. Each data
 ## Model
 To run them model you need to run the `fair_model` notebook. However, due to the anonymity, we remove some Github accounts that we load the datasets from there and this may cause the notebook will not be run properly. We will fix them when the paper got accepted.
 
+```
+https://colab.research.google.com/github/rahmanidashti/CPFairRecSys/blob/main/fair_model.ipynb
+```
+
 ## Team
 <a href="https://www.linkedin.com/in/ehsan-naghiaei/">Mohammadmehdi Naghiaei</a>, DECIDE, University of Southern California
 
