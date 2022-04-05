@@ -46,8 +46,5 @@ If you use our source code, dataset, and experiments for your research or develo
 }
 ```
 
-## Acknowledgements
-TBA
-
 ## Contact
 If you have any questions, do not hesitate to contact us by `h.rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`, we will be happy to assist.
