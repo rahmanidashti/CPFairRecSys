@@ -45,5 +45,18 @@ If you use our source code, dataset, and experiments for your research or develo
 }
 ```
 
+```
+@article{NAGHIAEI2022100382,
+title = {PyCPFair: A framework for consumer and producer fairness in recommender systems},
+journal = {Software Impacts},
+pages = {100382},
+year = {2022},
+issn = {2665-9638},
+doi = {https://doi.org/10.1016/j.simpa.2022.100382},
+url = {https://www.sciencedirect.com/science/article/pii/S2665963822000835},
+author = {Mohammadmehdi Naghiaei and Hossein A. Rahmani and Yashar Deldjoo}
+}
+```
+
 ## Contact
 If you have any questions, do not hesitate to contact us by `h.rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`, we will be happy to assist.
