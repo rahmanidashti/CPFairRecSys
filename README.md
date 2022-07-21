@@ -46,7 +46,7 @@ If you use our source code, dataset, and experiments for your research or develo
 ```
 
 ```
-@article{NAGHIAEI2022100382,
+@article{Naghiaei2022PyCPFair,
 title = {PyCPFair: A framework for consumer and producer fairness in recommender systems},
 journal = {Software Impacts},
 pages = {100382},
